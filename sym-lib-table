@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name 8051-rescue)(type Legacy)(uri ${KIPRJMOD}/8051-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "8051-rescue")(type "KiCad")(uri "${KIPRJMOD}/8051-rescue.kicad_sym")(options "")(descr ""))
 )
