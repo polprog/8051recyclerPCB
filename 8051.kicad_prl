@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -40,6 +40,7 @@
       9,
       10,
       11,
+      12,
       13,
       14,
       15,
@@ -66,8 +67,14 @@
       39,
       40
     ],
-    "visible_layers": "0009270_80000001",
+    "visible_layers": "00090aa_00000001",
     "zone_display_mode": 0
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "8051.kicad_prl",
