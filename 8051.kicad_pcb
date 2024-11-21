@@ -67,7 +67,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "nc/")
+			(outputdirectory "gbr/")
 		)
 	)
 	(net 0 "")
@@ -2769,7 +2769,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D3"
-			(at 0 -1.65 360)
+			(at 0 -1.65 0)
 			(layer "F.Fab")
 			(uuid "bbbad3ab-b4b8-4e5a-b9ca-e9ad7df19edd")
 			(effects
@@ -2780,7 +2780,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "d3faca52-1398-439f-9a46-026fe9b79f7f")
 			(effects
@@ -2791,7 +2791,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "30f4413f-250a-40cd-b38c-5779e4a382d0")
@@ -2803,7 +2803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4ba8d4b1-eaac-4906-b9c7-24122f5f23f3")
@@ -2815,7 +2815,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "afaa6e86-a141-43f5-a603-81e8f21580e8")
@@ -2952,7 +2952,7 @@
 			(uuid "2096a862-5564-4f82-b6f8-bde247fbf236")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "d6749fa9-49d2-4cc1-93ec-721b080d32b4")
 			(effects
@@ -3001,7 +3001,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D4"
-			(at 0 -1.65 360)
+			(at 0 -1.65 0)
 			(layer "F.Fab")
 			(uuid "e9362965-c64d-46f9-8e70-7d2cfca74092")
 			(effects
@@ -3012,7 +3012,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "4eb7f53d-47ce-4be4-8462-cf5423f50b61")
 			(effects
@@ -3023,7 +3023,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "67bc4782-274f-489c-a84a-a43c72984518")
@@ -3035,7 +3035,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1305fd45-f48a-4588-9934-44d79519e659")
@@ -3047,7 +3047,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bf968b59-3d76-4b29-9200-0db1e2d35219")
@@ -3184,7 +3184,7 @@
 			(uuid "872cee94-da13-4ed8-bca3-6281ae3e1d43")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "49c41a5d-83f5-47bf-88c0-9e613c33bc53")
 			(effects
@@ -7216,7 +7216,7 @@
 			(uuid "54032f6e-b982-4e45-a1b8-ebf38bbb73c3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.27 360)
+			(at 0 1.27 0)
 			(layer "F.Fab")
 			(uuid "3b19bf69-8538-4846-8382-46a3bde0dfb3")
 			(effects
